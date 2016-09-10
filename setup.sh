@@ -4,7 +4,7 @@ sudo apt-get install libblas-dev
 
 pip3 install --upgrade pip
 
-pip3 install virtualenv
+sudo pip3 install virtualenv
 virtualenv fin
 
 source fin/bin/activate
